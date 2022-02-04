@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Movie Searcher</string>
+    <string name="mainPromptText">Type something in the search line below and tap the SEARCH button</string>
+    <string name="searchLineHint">Type Here</string>
+    <string name="searchButtonText">SEARCH</string>
+    <string name="onEmptyRequest">Empty request!</string>
+    <string name="onNotEmptyRequest">Your request: %1$s</string>
 </resources>
