@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mainPromptMarginTop">5dp</dimen>
+    <dimen name="searchLineMarginTop">5dp</dimen>
+    <dimen name="searchButtonMarginTop">5dp</dimen>
+</resources>
